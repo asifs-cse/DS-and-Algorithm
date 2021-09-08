@@ -13,7 +13,7 @@ int main(){
     }
     
     int counter=1;
-    while (counter<n)
+    while (counter<n  )
     {
         for (int i = 0; i < counter-1; i++)
         {
